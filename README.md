@@ -1,5 +1,4 @@
-# Truckmate
-# TruckMate – Smart Map Assistant
+# TruckMate 
 
 TruckMate is a simple, map-based web project built using plain HTML, CSS, and JavaScript.  
 It is designed as a lightweight demo application that shows useful roadside services for truck drivers on an interactive map.
@@ -70,7 +69,8 @@ Steps followed:
 ## Demo
 
 Live Demo:  
-truckmate3.netlify.app
+https://truckmate3.netlify.app/
+
 ---
 
 ## Notes
